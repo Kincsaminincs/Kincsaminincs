@@ -1,4 +1,5 @@
 body { font-family: 'Kalam', cursive;}
+
 a:link {color: rgb(240, 8, 136);}
 a:visited {color: rgb(99, 3, 183);}
 a:hover { color: rgb(179, 8, 93);}
@@ -9,7 +10,7 @@ h1 { font-family: 'Courgette', cursive;
 
 .adatok {border: 4px dotted #a00154; 
         text-align: center; 
-        padding: 20px;}
+        padding: 20px;  }
 
 nav ul {list-style: none; 
     display: flex;
@@ -20,7 +21,6 @@ nav ul {list-style: none;
     line-height: 20px; 
     padding: 17px; 
     border-radius: 10px; 
-    font-weight: normal; 
     background-image: linear-gradient(to right, rgb(231, 38, 116), rgb(236, 154, 187) 50%,  rgb(231, 38, 116) 100%); 
     border: 4px solid rgb(3, 11, 103); 
     display: inline-block;}
@@ -33,3 +33,5 @@ nav ul {list-style: none;
 h2 {color: #fd3e91;}
 footer {font-family: 'Style Script', cursive;
      list-style: none;}
+.fa {width: 125px;
+    float:right}
