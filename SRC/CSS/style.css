@@ -35,3 +35,6 @@ footer {font-family: 'Style Script', cursive;
      list-style: none;}
 .fa {width: 125px;
     float:right}
+label{
+    text-align: center;
+}
