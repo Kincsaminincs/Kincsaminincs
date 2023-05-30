@@ -10,6 +10,8 @@ h1 { font-family: 'Courgette', cursive;
 
 .adatok {border: 4px dotted #a00154; 
         text-align: center; 
+        background-color: #ff9cc7;
+        color: #ac046c;
         padding: 20px;  }
 
 nav ul {list-style: none; 
@@ -35,6 +37,6 @@ footer {font-family: 'Style Script', cursive;
      list-style: none;}
 .fa {width: 125px;
     float:right}
-label{
-    text-align: center;
+form{
+    text-align: left;
 }
