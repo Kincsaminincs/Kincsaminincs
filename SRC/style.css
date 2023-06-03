@@ -16,8 +16,12 @@ h1 { font-family: 'Courgette', cursive;
 
 nav ul {list-style: none; 
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     color: rgb(255, 0, 102)}
+
+nav ul li {
+    padding: 5px;
+}
 
 .email {font-size: 20px; 
     line-height: 20px; 
