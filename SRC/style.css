@@ -16,7 +16,7 @@ h1 { font-family: 'Courgette', cursive;
 
 nav ul {list-style: none; 
     display: flex;
-    justify-content: left;
+    justify-content: space-around;
     color: rgb(255, 0, 102)}
 
 nav ul li {
